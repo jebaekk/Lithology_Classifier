@@ -3,4 +3,4 @@ Code example for "Lithology classifier based on supervised learning using portab
 
 Only test data is available due to the project data security. 
 
-This workflow is tested with Sklearn and Keras (CPU). 
+This workflow is tested with Python 3.8, Sklearn, and Keras. 
